@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "exercises-tmp-fixed-6",
+        "quiz",
+        "codepen",
+        "jsfiddle",
+        "include",
+        "gist",
+        "ace"
+    ],
+    "pluginsConfig": {}
+}
