@@ -1,7 +1,7 @@
 # Ace Editor
 
 
-{% ace %}
+{% ace edit=true %}
 
 int main(){
   return 1;
