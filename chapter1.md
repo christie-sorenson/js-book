@@ -2,7 +2,7 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
-TEST123
+TEST1234567
 
 {% exercise %}
 Define a variable `x` equal to 10.
