@@ -1,7 +1,7 @@
 # Ace Editor
 
 
-{% ace edit=true, lang="c_cpp" %}
+{% ace lang="c_cpp", edit=true %}
 
 int main(){
   return 1;
