@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "exercises",
+        "exercises-quote-fix",
         "quiz",
         "codepen",
         "jsfiddle",
