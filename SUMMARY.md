@@ -5,5 +5,5 @@
 * [Variables](variables.md)
 * [Ace Editor](ace_editor.md)
 * [Code](code.md)
-* ZingChart
+* [ZingChart](zingchart.md)
 
