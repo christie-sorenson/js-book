@@ -1,7 +1,7 @@
 # ZingChart
 Here I will test zingchart
 
-{% zingchart %}
+{% zingchart width=300, height=300 %}
 {
     "type":"bar",  
     "series":[  
