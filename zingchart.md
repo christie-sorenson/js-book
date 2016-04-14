@@ -1,7 +1,7 @@
 # ZingChart
 Here I will test zingchart
 
-{% zingchart width=400, height=400 %}
+{% zingchart width=700, height=200 %}
 {
   "graphset":[
 {
