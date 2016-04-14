@@ -22,7 +22,7 @@ Here I will test zingchart
 }
 {% endchart %}
 
- zingchart width=300, height=300 
+{% zingchart width=300, height=300 %}
 {
     "type":"bar",  
     "series":[  
@@ -30,4 +30,4 @@ Here I will test zingchart
         { "values": [28, 40, 39, 36]}
     ]
 }
- endzingchart 
+{% endzingchart %}
