@@ -7,7 +7,8 @@
         "jsfiddle",
         "include",
         "gist",
-        "ace"
+        "ace",
+        "chart"
     ],
     "pluginsConfig": {}
 }
