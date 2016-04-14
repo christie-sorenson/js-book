@@ -1,8 +1,5 @@
 # ZingChart
 
-{% zingchart width=700, height=200 %}
-  {% include "./zingchart.json" %}
-{% endzingchart %}
 
 {% zingchart width=700, height=200 %}
 {
