@@ -1,5 +1,7 @@
 # ZingChart
 
+
+
 {% zingchart width=700, height=200 %}
 {
   "graphset":[
