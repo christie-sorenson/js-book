@@ -3,7 +3,7 @@
 
 [](https://jsfiddle.net/christieCA/s8t7p0qz/#tabs=html,result)
 
-[](http://jsfiddle.net/gh/get/library/pure/christie-sorenson/js-book/tree/master/examples/fetch/#tabs=js,result)
+[](https://jsfiddle.net/gh/get/library/pure/christie-sorenson/js-book/tree/master/examples/fetch/#tabs=js,result)
 
 <iframe src="https://codp.in/e/MjQ3OTg0" width="100%" height="300"></iframe>
 
