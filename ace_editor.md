@@ -13,6 +13,4 @@ var hex = parseInt("0xFF"); // 255
 
 {% endace %}
 
-{% ace lang="javascript", edit="true" %}
-{% include "./includeme.md" %}
-{% endace %}
+{% codesnippet "../examples/fetch/fetch.html" %}{% endcodesnippet %}
