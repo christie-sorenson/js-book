@@ -9,7 +9,8 @@
         "gist",
         "ace",
         "chart",
-        "codesnippet"
+        "codesnippet",
+        "include-codeblock"
     ],
     "pluginsConfig": {}
 }
