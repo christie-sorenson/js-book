@@ -12,3 +12,7 @@ alert(trouble);
 var hex = parseInt("0xFF"); // 255
 
 {% endace %}
+
+[include](./examples/fetch/fetch.html)
+
+[include](./examples/fetch/demo.js)
