@@ -16,5 +16,3 @@ var hex = parseInt("0xFF"); // 255
 [include](./examples/fetch/fetch.html)
 
 [include](./examples/fetch/demo.js)
-
-{% codesnippet "./examples/fetch/demo.js" %}{% endcodesnippet %}
