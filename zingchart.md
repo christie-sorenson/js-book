@@ -1,6 +1,8 @@
 # ZingChart
 
 
+{% zingchart src='./zingchart.json' width=700 height=200 %}
+
 {% zingchart width=700, height=200 %}
 {
   "graphset":[
