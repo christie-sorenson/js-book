@@ -2,6 +2,7 @@
 
 
 {% zingchart src='./zingchart.json', width=700, height=200 %}
+{% endzingchart %}
 
 {% zingchart width=700, height=200 %}
 {
